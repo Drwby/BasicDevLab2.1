@@ -207,6 +207,5 @@ Emoji:
     
 :mask: 
 
-Contributor Information:
-
+Apisit Liesmann 662115057
 Levi Thorup 662115509 levithor009@gmail.com
