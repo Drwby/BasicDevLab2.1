@@ -206,3 +206,7 @@ Emoji:
     Markup : Code appears between colons :EMOJICODE:
     
 :mask: 
+
+Contributor Information:
+
+Levi Thorup 662115509 levithor009@gmail.com
